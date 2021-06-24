@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  padding: 10px 0;
+  text-transform: uppercase;
+  font-family: arial;
+}
+ul li a:hover {
+  color: red;
+}
