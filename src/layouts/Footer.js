@@ -12,7 +12,7 @@ const Footer = () => {
           console.log(props)
           return (
             <p>
-              Jesteś na <span>stronie głównej</span>
+              Jesteś na <span>Stronie głównej</span>
             </p>
           )
         }}
